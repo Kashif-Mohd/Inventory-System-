@@ -1,0 +1,11 @@
+E:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Release\Inventory Management Project.exe.config
+E:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Release\Inventory Management Project.exe
+E:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Release\Inventory Management Project.pdb
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory_Management_Project.ItemsInventory.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory_Management_Project.Items.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory_Management_Project.Main.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory_Management_Project.Properties.Resources.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory_Management_Project.SearchingForm.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory Management Project.csproj.GenerateResource.Cache
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory Management Project.exe
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Release\Inventory Management Project.pdb

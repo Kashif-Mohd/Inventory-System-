@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetBalance" targetNamespace="http://tempuri.org/DataSetBalance.xsd" xmlns:mstns="http://tempuri.org/DataSetBalance.xsd" xmlns="http://tempuri.org/DataSetBalance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Inventory_System_AKUConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Inventory_System_AKUConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Inventory_Management_Project.Properties.Settings.GlobalReference.Default.Inventory_System_AKUConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BalanceDataTableAdapter" GeneratorDataComponentClassName="BalanceDataTableAdapter" Name="BalanceData" UserDataComponentName="BalanceDataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillbyAll" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetDatabyAll" GeneratorSourceName="FillbyAll" GetMethodModifier="Public" GetMethodName="GetDatabyAll" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDatabyAll" UserSourceName="FillbyAll">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ICN_NO" DataSetColumn="ICN_NO" />
+              <Mapping SourceColumn="Items" DataSetColumn="Items" />
+              <Mapping SourceColumn="Total_IN" DataSetColumn="Total_IN" />
+              <Mapping SourceColumn="Total_Out" DataSetColumn="Total_Out" />
+              <Mapping SourceColumn="Warehouse_Balance" DataSetColumn="Warehouse_Balance" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByCateg" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByCateg" GeneratorSourceName="FillByCateg" GetMethodModifier="Public" GetMethodName="GetDataByCateg" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByCateg" UserSourceName="FillByCateg">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO
+WHERE        (c.ID_Categ = @Category)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Category" ColumnName="ID_Categ" DataSourceName="SELECT ICN_NO, Items, ID_Categ FROM Items" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@Category" Precision="0" Scale="0" Size="4" SourceColumn="ID_Categ" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByCategdt" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByCategdt" GeneratorSourceName="FillByCategdt" GetMethodModifier="Public" GetMethodName="GetDataByCategdt" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByCategdt" UserSourceName="FillByCategdt">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          WHERE        (DateIn BETWEEN @date AND @date1)
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               WHERE        (DateOut BETWEEN @date AND @date1)
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO where (ID_Categ=@Category)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="Category" ColumnName="ID_Categ" DataSourceName="SELECT ICN_NO, Items, ID_Categ FROM Items" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@Category" Precision="0" Scale="0" Size="4" SourceColumn="ID_Categ" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date1" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date1" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillBydt" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataBydt" GeneratorSourceName="FillBydt" GetMethodModifier="Public" GetMethodName="GetDataBydt" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBydt" UserSourceName="FillBydt">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          WHERE        (DateIn BETWEEN @date AND @date1)
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               WHERE        (DateOut BETWEEN @date AND @date1)
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="date" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date1" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date1" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByIcn" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByIcn" GeneratorSourceName="FillByIcn" GetMethodModifier="Public" GetMethodName="GetDataByIcn" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByIcn" UserSourceName="FillByIcn">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO
+WHERE        (a.ICN_NO = @icn)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="icn" ColumnName="ICN_NO" DataSourceName="SELECT ICN_NO, SUM(Quantity) AS Total_IN FROM MaterialIn GROUP BY ICN_NO" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@icn" Precision="0" Scale="0" Size="50" SourceColumn="ICN_NO" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByICNdt" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByICNdt" GeneratorSourceName="FillByICNdt" GetMethodModifier="Public" GetMethodName="GetDataByICNdt" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByICNdt" UserSourceName="FillByICNdt">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          WHERE        (DateIn BETWEEN @date AND @date1)
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               WHERE        (DateOut BETWEEN @date AND @date1)
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO where (a.ICN_NO=@icn)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="icn" ColumnName="ICN_NO" DataSourceName="SELECT ICN_NO, SUM(Quantity) AS Total_IN FROM MaterialIn WHERE (DateIn BETWEEN @date AND @date1) GROUP BY ICN_NO" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@icn" Precision="0" Scale="0" Size="50" SourceColumn="ICN_NO" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date1" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date1" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByItem" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByItem" GeneratorSourceName="FillByItem" GetMethodModifier="Public" GetMethodName="GetDataByItem" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByItem" UserSourceName="FillByItem">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO
+WHERE        (c.Items = @item)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="item" ColumnName="Items" DataSourceName="SELECT ICN_NO, Items, ID_Categ FROM Items" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@item" Precision="0" Scale="0" Size="50" SourceColumn="Items" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByItemdt" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByItemdt" GeneratorSourceName="FillByItemdt" GetMethodModifier="Public" GetMethodName="GetDataByItemdt" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByItemdt" UserSourceName="FillByItemdt">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, b.Total_Out, a.Total_IN - b.Total_Out AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          WHERE        (DateIn BETWEEN @date AND @date1)
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, SUM(Quantity) AS Total_Out
+                               FROM            MaterialOut
+                               WHERE        (DateOut BETWEEN @date AND @date1)
+                               GROUP BY ICN_NO) AS b ON a.ICN_NO = b.ICN_NO INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO where (c.Items=@item)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="item" ColumnName="Items" DataSourceName="SELECT ICN_NO, Items, ID_Categ FROM Items" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@item" Precision="0" Scale="0" Size="50" SourceColumn="Items" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="date1" ColumnName="" DataSourceName="" DataTypeServer="date" DbType="AnsiString" Direction="Input" ParameterName="@date1" Precision="0" Scale="0" Size="3" SourceColumn="" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByOnlyIcn" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByOnlyIcn" GeneratorSourceName="FillByOnlyIcn" GetMethodModifier="Public" GetMethodName="GetDataByOnlyIcn" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByOnlyIcn" UserSourceName="FillByOnlyIcn">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, a.Total_IN AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO
+WHERE        (a.ICN_NO = @OnlyIcn)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="OnlyIcn" ColumnName="ICN_NO" DataSourceName="SELECT ICN_NO, SUM(Quantity) AS Total_IN FROM MaterialIn GROUP BY ICN_NO" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@OnlyIcn" Precision="0" Scale="0" Size="50" SourceColumn="ICN_NO" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="Inventory_System_AKUConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByOnlyItem" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByOnlyItem" GeneratorSourceName="FillByOnlyItem" GetMethodModifier="Public" GetMethodName="GetDataByOnlyItem" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByOnlyItem" UserSourceName="FillByOnlyItem">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        a.ICN_NO, c.Items, a.Total_IN, a.Total_IN AS Warehouse_Balance
+FROM            (SELECT        ICN_NO, SUM(Quantity) AS Total_IN
+                          FROM            MaterialIn
+                          GROUP BY ICN_NO) AS a INNER JOIN
+                             (SELECT        ICN_NO, Items, ID_Categ
+                               FROM            Items) AS c ON a.ICN_NO = c.ICN_NO
+WHERE        (c.Items = @OnlyItem)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="OnlyItem" ColumnName="Items" DataSourceName="SELECT ICN_NO, Items, ID_Categ FROM Items" DataTypeServer="varchar(50)" DbType="AnsiString" Direction="Input" ParameterName="@OnlyItem" Precision="0" Scale="0" Size="50" SourceColumn="Items" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetBalance" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetBalance" msprop:Generator_UserDSName="DataSetBalance">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BalanceData" msprop:Generator_TableClassName="BalanceDataDataTable" msprop:Generator_TableVarName="tableBalanceData" msprop:Generator_RowChangedName="BalanceDataRowChanged" msprop:Generator_TablePropName="BalanceData" msprop:Generator_RowDeletingName="BalanceDataRowDeleting" msprop:Generator_RowChangingName="BalanceDataRowChanging" msprop:Generator_RowEvHandlerName="BalanceDataRowChangeEventHandler" msprop:Generator_RowDeletedName="BalanceDataRowDeleted" msprop:Generator_RowClassName="BalanceDataRow" msprop:Generator_UserTableName="BalanceData" msprop:Generator_RowEvArgName="BalanceDataRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ICN_NO" msprop:Generator_ColumnVarNameInTable="columnICN_NO" msprop:Generator_ColumnPropNameInRow="ICN_NO" msprop:Generator_ColumnPropNameInTable="ICN_NOColumn" msprop:Generator_UserColumnName="ICN_NO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Items" msprop:Generator_ColumnVarNameInTable="columnItems" msprop:Generator_ColumnPropNameInRow="Items" msprop:Generator_ColumnPropNameInTable="ItemsColumn" msprop:Generator_UserColumnName="Items" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Total_IN" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotal_IN" msprop:Generator_ColumnPropNameInRow="Total_IN" msprop:Generator_ColumnPropNameInTable="Total_INColumn" msprop:Generator_UserColumnName="Total_IN" type="xs:int" minOccurs="0" />
+              <xs:element name="Total_Out" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnTotal_Out" msprop:Generator_ColumnPropNameInRow="Total_Out" msprop:Generator_ColumnPropNameInTable="Total_OutColumn" msprop:Generator_UserColumnName="Total_Out" type="xs:int" minOccurs="0" />
+              <xs:element name="Warehouse_Balance" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnWarehouse_Balance" msprop:Generator_ColumnPropNameInRow="Warehouse_Balance" msprop:Generator_ColumnPropNameInTable="Warehouse_BalanceColumn" msprop:Generator_UserColumnName="Warehouse_Balance" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

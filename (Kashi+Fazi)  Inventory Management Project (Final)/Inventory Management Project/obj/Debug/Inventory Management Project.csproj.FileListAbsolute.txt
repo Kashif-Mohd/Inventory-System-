@@ -1,0 +1,527 @@
+e:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+e:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+e:\mywinapp\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+e:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+e:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+e:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+e:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+e:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Downloads\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Fazalaku\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Aku Project\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\RdlCompile.compiled
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\mywinapp\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\mywinapp\Inventory Management 05092015\Inventory Management Project\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\user\Downloads\calculator and Project AKU\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Downloads\calculator and Project AKU\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Downloads\calculator and Project AKU\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Aku Project\Inventory Management Project (fazal)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+E:\Inventory Management Project (Final Touch)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\F-38158\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Guifreaks.Common.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Guifreaks.NavigationBar.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\itextsharp.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Spire.DataExport.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Spire.DataExport.ResourceMgr.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\bin\Debug\Spire.License.dll
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\RdlCompile.compiled
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\mywinapp\Inventory Management Project (Final Touch) splash\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+G:\ \Internship Project 2015\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+G:\ \Internship Project 2015\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+G:\ \Internship Project 2015\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\Final Project Backup\Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\AKU Practice\Internship Project\Final Project Backup\Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\AKU Practice\Internship Project\Final Project Backup\Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+G:\ \Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+G:\ \Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+G:\ \Internship Project 2015\New and Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\New and Final Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\AKU Practice\Internship Project\New and Final Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\AKU Practice\Internship Project\New and Final Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\AKU Practice\Internship Project\Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\AKU Practice\Internship Project\Project (AKU)\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+D:\AKU Practice\Internship Project\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+D:\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+D:\Project (AKU) 2016 Practice\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\Project (AKU) 2016 Practice\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\Project (AKU) 2016 Practice\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+D:\Old Look (Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\Project (AKU) 2016 Practice Final\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Final Backup AKU\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+C:\Users\Kashif\Desktop\Project (AKU) 2016 Practice with Balance Rp\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+C:\Users\Kashif\Documents\Visual Studio 2012\Projects\Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+D:\Own AKU Pro 2015\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\Own AKU Pro 2015\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\Own AKU Pro 2015\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2016 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+C:\Users\Kashif\Desktop\Final (Deploy) Project (AKU) 2017 Practice\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\AKU Live Projects final\Project (AKU) 2016 Final\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csprojResolveAssemblyReference.cache
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+E:\test Debug\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+D:\VPT-Project (Data)\Inventory System\Final (Deploy) Project (AKU) 2017 ConnString\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe.config
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.exe
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.pdb
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.exe
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\bin\Debug\Inventory Management Project.pdb
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.BalanceReport.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.CategoryForm.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ChangePassword.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.FieldSite.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ItemsInventory.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Items.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.LoginForm.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Main.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Maincs.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Properties.Resources.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.Reportdate1.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.ReportOut.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SearchingForm.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SignUp.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory_Management_Project.SplashScreen.resources
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\Inventory Management Project.csproj.GenerateResource.Cache
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.cache
+D:\VPT-Project (Data)\Inventory System\Inventory Project (VPT) 2019\(Kashi+Fazi)  Inventory Management Project (Final)\Inventory Management Project\obj\Debug\RdlCompile.compiled
